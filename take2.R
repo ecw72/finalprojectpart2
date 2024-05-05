@@ -16,7 +16,7 @@ library(caret)
 library(data.table)
 
 
-register_google(key = "AIzaSyD4XfNNw8gn5l56R0HnriIzWSONtdRfUt0")
+register_google(key = "")
 # 
 # nj_bbox <- c(left = -75.562, bottom = 38.928, right = -73.885, top = 41.357)
 # 
